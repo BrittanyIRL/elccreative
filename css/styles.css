@@ -190,7 +190,8 @@ button.comingsoon {
 	font-size: 1.8rem;
 	text-align: center;
 	padding: 1rem;
-	width: 60%;
+	min-width: 60%;
+	max-width: 80%;
 	margin: 0 auto;
 	-webkit-box-shadow: 1px 1px 5px 1px rgba(0,0,0,0.4);
     -moz-box-shadow: 1px 1px 5px 1px rgba(0,0,0,0.4);
