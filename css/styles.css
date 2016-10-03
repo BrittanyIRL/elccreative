@@ -56,6 +56,7 @@ button {
 	font-family: 'Questrial', sans-serif;
 	margin-bottom: 2rem;
 	width: 300px;
+	display: block;
 }
 button.available {
 	background-color: #3B5863;
